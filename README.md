@@ -6,8 +6,10 @@ Notifications help people to remember things. It is a small piece of text which 
 
 ### Other areas where you can use this approach:
 
-- Set daily tracker for COVID stats.
+- Set daily tracker for COVID-19 stats.
 
-- Daily notification to take medicine.
+- Daily notification for your tasks.
 
-- Hourly notification to drink water.
+- Hourly notification to drink water or perform some physical activity.
+
+and many more, it’s completely up to you how to use this application.

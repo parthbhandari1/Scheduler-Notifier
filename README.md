@@ -13,3 +13,7 @@ Notifications help people to remember things. It is a small piece of text which 
 - Hourly notification to drink water or perform some physical activity.
 
 and many more, it’s completely up to you how to use this application.
+
+[Plyer Documentation](https://plyer.readthedocs.io/en/latest/#)
+
+[Pygame Documentation](https://www.pygame.org/docs/)

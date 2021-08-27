@@ -78,4 +78,5 @@ if __name__ == '__main__':
             notifier(e)
             print("Press 'ok' to turn off the alarm.")
             LoopMusic("alarm.mp3", "ok")
+            LogData(task_dict[e] + ' - task notification on')
             time.sleep(60)

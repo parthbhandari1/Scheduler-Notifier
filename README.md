@@ -1,4 +1,7 @@
 # Scheduler-Notifier
+
+![Thumbnail](https://user-images.githubusercontent.com/71217131/131220173-032707d4-b1f5-4f10-b6be-5ae3ebfda2ce.png)
+
 ### Scheduler Notifier
 
 The purpose behind a notification is to inform about an event and encourage him to take action.
